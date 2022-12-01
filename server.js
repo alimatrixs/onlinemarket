@@ -1,1 +1,1 @@
-salom
+console.log('Hello');
